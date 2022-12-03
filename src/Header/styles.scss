@@ -1,0 +1,19 @@
+.teams {
+  width: 400px;
+  background: aliceblue;
+  box-shadow: 8px 8px 8px #e5c9c9;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  .teams_title {
+    display: flex;
+    justify-content: center;
+  }
+  .remove {
+    cursor:pointer;
+    color: #de3939;
+    font-family: sans-serif;
+    font-size:18px;
+    border: 1px solid black;
+  }
+}
